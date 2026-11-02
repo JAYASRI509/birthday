@@ -1,0 +1,9 @@
+#musicBtn {
+    padding: 12px 20px;
+    background: #ff69b4;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
